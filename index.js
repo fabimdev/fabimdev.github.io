@@ -31,5 +31,5 @@ form.addEventListener("submit", event => {
 
   scrollTo(0, 0);
   result.classList.remove("hide");
-  result.querySelector("p").textContent = `Você acertou ${score} questões de: 10 Perguntas.`;
+  result.querySelector("p").textContent = `Você acertou ${score}/10`;
 });
