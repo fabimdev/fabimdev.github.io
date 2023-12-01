@@ -31,14 +31,6 @@
   text-align: center;
 }
 
-.heading .rules {
-  font-size: 16px;
-  color: #ffffff;
-  font-weight: 300;
-  text-align: center;
-  margin-top: 5px;
-}
-
 .heading .subtitle {
   font-size: 20px;
   color: #ffffff;
@@ -46,17 +38,10 @@
   text-align: center;
 }
 
-.headingf .dev {
-  font-size: 16px;
-  color: #ffffff;
-  font-weight: 300;
-  text-align: center;
-}
-
 .result {
   text-align: center;
-  min-width: 200px;
-  max-width: 250px;
+  min-width: 350px;
+  max-width: 400px;
   margin: 20px auto;
   border-radius: 5px;
   background-color: #ffffff;
